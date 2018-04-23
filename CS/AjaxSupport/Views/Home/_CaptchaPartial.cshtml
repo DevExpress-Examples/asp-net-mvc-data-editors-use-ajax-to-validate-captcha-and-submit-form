@@ -1,0 +1,8 @@
+@Html.DevExpress().Captcha(settings =>
+{
+    settings.Name = "Captcha";
+    settings.CallbackRouteValues = new { Controller = "Home", Action = "CaptchaPartial" };
+    settings.ValidationSettings.ErrorDisplayMode = ErrorDisplayMode.ImageWithText;
+    settings.CodeLength = 5;
+    settings.TextBox.Position = DevExpress.Web.ASPxEditors.Captcha.ControlPosition.Bottom;
+}).GetHtml()

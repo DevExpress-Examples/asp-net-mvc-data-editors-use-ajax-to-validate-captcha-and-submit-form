@@ -1,0 +1,9 @@
+﻿@ViewData["Key"]
+<div>
+    @Html.DevExpress().HyperLink(settings =>
+{
+    settings.Name = "Button";
+    settings.Properties.Text = "Back";
+    settings.NavigateUrl = DevExpressHelper.GetUrl(new { Controller = "Home", Action = "Index" });
+}).GetHtml()
+</div>
