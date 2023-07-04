@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Data Editors for ASP.NET MVC - How to use AJAX callbacks to validate a Captcha code and submit a form
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t121585/)**
+**[[Run Online]](https://codecentral.devexpress.com/128549322/)**
 <!-- run online end -->
 
 This example demonstrates how to use callbacks to validate model data and [Captcha](https://docs.devexpress.com/AspNetMvc/15164/components/data-editors-extensions/captcha) code.
