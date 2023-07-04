@@ -11,7 +11,7 @@ This example demonstrates how to use callbacks to validate model data and [Captc
 
 ![Validate Model Values](image.png)
 
-Call the jQuery library's [serialize](https://api.jquery.com/serialize/) method to collect values from all editors displayed in a form. Then send these values in an AJAX callback to the Controller.
+Call the jQuery library's [serialize](https://api.jquery.com/serialize/) method to collect values from all editors displayed in a form. Send these values in an AJAX callback to the Controller.
 
 ## Files to Review
 
