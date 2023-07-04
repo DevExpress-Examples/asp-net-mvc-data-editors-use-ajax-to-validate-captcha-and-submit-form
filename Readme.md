@@ -15,7 +15,7 @@
 <!-- default file list end -->
 # How to validate Captcha and submit model values using $.ajax
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t121585)**
+**[[Run Online]](https://codecentral.devexpress.com/128549322/)**
 <!-- run online end -->
 
 
